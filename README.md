@@ -4,6 +4,10 @@ Yamini Ananth, Kathy Wang, Abhiram Kolluri, Jafar Vohra
 Topic: Recommender Systems
 Implementation: Podcast Recommender
 
-Ideas document: https://docs.google.com/document/d/1A2vN-jGioJLAfOlOB6fx4qTioIURRIu3Z4M3tRT0iOk/edit
+slides available at https://docs.google.com/presentation/d/1aZyN62qzJ5jSjBKCoFWphapBJ0n7qBe39vgPyZY2_OE/edit?usp=sharing
+
+premise: given a podcast, recommend 5-10 similar podcasts!
 
 data scraped using https://github.com/siddgood/podcast-recommendation-engine/tree/master/scripts
+
+
