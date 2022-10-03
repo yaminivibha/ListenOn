@@ -8,6 +8,5 @@ slides available at https://docs.google.com/presentation/d/1aZyN62qzJ5jSjBKCoFWp
 
 premise: given a podcast, recommend 5-10 similar podcasts!
 
-data scraped using https://github.com/siddgood/podcast-recommendation-engine/tree/master/scripts
-
+data scraped using the following script: https://github.com/siddgood/podcast-recommendation-engine/blob/master/scripts/get_podcast_info.py
 
