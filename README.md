@@ -10,3 +10,4 @@ premise: given a podcast, recommend similar podcasts!
 
 data scraped using the following script: https://github.com/siddgood/podcast-recommendation-engine/blob/master/scripts/get_podcast_info.py
 
+available as interactive notebook here: https://colab.research.google.com/drive/1yIcaWAA8WHczgIXrq7wEqRCQavQZyLKK?authuser=1#scrollTo=iIeOnfSzQkjS
