@@ -10,4 +10,4 @@ slides available at https://docs.google.com/presentation/d/1aZyN62qzJ5jSjBKCoFWp
 
 available as interactive notebook here: https://colab.research.google.com/drive/1yIcaWAA8WHczgIXrq7wEqRCQavQZyLKK?authuser=1#scrollTo=iIeOnfSzQkjS
 
-available as medium post with background here: 
+available with full context as medium post here: https://medium.com/@yva2002/building-a-recommender-system-for-podcasts-92cec76920b5
