@@ -1,10 +1,10 @@
-# APAM Senior Seminar Project - F2022
+# Creating a Recommender System for Podcasts - APAM Senior Seminar Project - F2022
 Yamini Ananth, Kathy Wang, Abhiram Kolluri, Jafar Vohra
 
 Topic: Recommender Systems
 Implementation: Podcast Recommender
 
-Premise: given a podcast, recommend similar podcasts!
+Premise: given a podcast, recommend similar podcasts; given a network of users, recommend podcasts to users based on what other similar users like!
 
 slides available at https://docs.google.com/presentation/d/1aZyN62qzJ5jSjBKCoFWphapBJ0n7qBe39vgPyZY2_OE/edit?usp=sharing
 
