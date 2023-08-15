@@ -7,7 +7,7 @@ premise: given a podcast, recommend similar podcasts; given a network of users, 
 
 podcast metadata scraped from apple podcasts using BeautifulSoup; implemented content and collaborative-filtering based recommendation techniques in model. 
 
-[slides available](https://docs.google.com/presentation/d/1aZyN62qzJ5jSjBKCoFWphapBJ0n7qBe39vgPyZY2_OE/edit?usp=sharing)
+[slides available](_slides.pdf)
 
 available as interactive notebook [here](https://colab.research.google.com/drive/1yIcaWAA8WHczgIXrq7wEqRCQavQZyLKK?authuser=1#scrollTo=iIeOnfSzQkjS)
 
